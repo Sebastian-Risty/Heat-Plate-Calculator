@@ -1,3 +1,5 @@
+# Heat-Plate-Calculator
+
 Second HW
 
 Calculates the average temperature of various heat plates
